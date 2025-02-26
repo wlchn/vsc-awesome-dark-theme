@@ -8,6 +8,7 @@ git clone https://github.com/wlchn/vsc-community-material-theme.git
 VSCode `cmd`+`shift`+`P`
 ```
 Developer: install extension from location...
+// select vsc-community-material-theme
 ```
 
 ------------------------Origin Readme--------------------------
