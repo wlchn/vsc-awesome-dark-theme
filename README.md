@@ -8,6 +8,7 @@ git clone https://github.com/wlchn/vsc-community-material-theme.git
 VSCode `cmd`+`shift`+`P`
 ```
 Developer: install extension from location...
+To show hidden files in Finder: cmd+shift+Dot
 // select vsc-community-material-theme
 ```
 
