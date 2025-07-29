@@ -1,6 +1,6 @@
 ***Forked from Equinusocio OpenSource Project.***
 
-# Usage
+# Local Usage
 Clone repo
 ``` shell
 cd ~/.vscode/extensions/
