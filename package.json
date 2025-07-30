@@ -56,16 +56,6 @@
         "label": "Community Material Theme Darker High Contrast",
         "path": "./themes/Community-Material-Theme-Darker-High-Contrast.json",
         "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Community Material Theme Lighter",
-        "path": "./themes/Community-Material-Theme-Lighter.json",
-        "uiTheme": "vs"
-      },
-      {
-        "label": "Community Material Theme Lighter High Contrast",
-        "path": "./themes/Community-Material-Theme-Lighter-High-Contrast.json",
-        "uiTheme": "vs"
       }
     ]
   }
