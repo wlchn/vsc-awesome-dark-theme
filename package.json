@@ -58,26 +58,6 @@
         "uiTheme": "vs-dark"
       },
       {
-        "label": "Community Material Theme Palenight",
-        "path": "./themes/Community-Material-Theme-Palenight.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Community Material Theme Palenight High Contrast",
-        "path": "./themes/Community-Material-Theme-Palenight-High-Contrast.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Community Material Theme Ocean",
-        "path": "./themes/Community-Material-Theme-Ocean.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Community Material Theme Ocean High Contrast",
-        "path": "./themes/Community-Material-Theme-Ocean-High-Contrast.json",
-        "uiTheme": "vs-dark"
-      },
-      {
         "label": "Community Material Theme Lighter",
         "path": "./themes/Community-Material-Theme-Lighter.json",
         "uiTheme": "vs"
