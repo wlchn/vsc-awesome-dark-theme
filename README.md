@@ -1,5 +1,7 @@
 ***Forked from Equinusocio.vsc-community-material-theme(Apache-2.0)***
 
+***This fork is Not published in Marketplace***
+
 # Local Usage
 Clone repo
 ``` shell
