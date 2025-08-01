@@ -1,4 +1,4 @@
-***Forked from Equinusocio.vsc-community-material-theme Open Source***
+***Forked from Equinusocio.vsc-community-material-theme(Apache-2.0)***
 
 # Local Usage
 Clone repo
@@ -16,6 +16,8 @@ To show hidden files in Finder: `cmd`+`shift`+`.`
 
 Select `vsc-community-material-theme`
 
+
+---
 
 # Origin Readme
 <p align="center">
