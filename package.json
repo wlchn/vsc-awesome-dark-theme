@@ -38,21 +38,6 @@
   "contributes": {
     "themes": [
       {
-        "label": "Community Material Theme",
-        "path": "./themes/Community-Material-Theme-Default.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Community Material Theme High Contrast",
-        "path": "./themes/Community-Material-Theme-Default-High-Contrast.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Community Material Theme Darker",
-        "path": "./themes/Community-Material-Theme-Darker.json",
-        "uiTheme": "vs-dark"
-      },
-      {
         "label": "Community Material Theme Darker High Contrast",
         "path": "./themes/Community-Material-Theme-Darker-High-Contrast.json",
         "uiTheme": "vs-dark"
