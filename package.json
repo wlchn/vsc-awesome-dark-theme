@@ -38,6 +38,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Awesome Dark Theme - Inspired by Material",
+        "path": "./themes/Awesome-Dark-Theme.json",
+        "uiTheme": "vs-dark"
+      },
+      {
         "label": "Community Material Theme Darker High Contrast",
         "path": "./themes/Community-Material-Theme-Darker-High-Contrast.json",
         "uiTheme": "vs-dark"
