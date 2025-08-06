@@ -726,6 +726,7 @@
     "tab.inactiveForeground": "#8A8A8A",
     "tab.inactiveBackground": "#212121",
     "tab.unfocusedActiveForeground": "#EEFFFF",
+    "tab.unfocusedInactiveForeground": "#6A6A6A",
     "tab.border": "#212121",
     "statusBar.noFolderBackground": "#212121",
     "statusBar.border": "#00000060",
