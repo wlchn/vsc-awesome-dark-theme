@@ -31,15 +31,6 @@
       }
     },
     {
-      "name": "PHP Constants",
-      "scope": [
-        "constant.other.php"
-      ],
-      "settings": {
-        "foreground": "#FFCB6B"
-      }
-    },
-    {
       "name": "Colors",
       "scope": [
         "constant.other.color"
@@ -95,7 +86,6 @@
         "constant.other.color",
         "punctuation.definition.tag",
         "punctuation",
-        "punctuation.separator.inheritance.php",
         "punctuation.definition.tag.html",
         "punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html",
@@ -214,9 +204,6 @@
         "entity.name",
         "support.type",
         "support.class",
-        "support.orther.namespace.use.php",
-        "meta.use.php",
-        "support.other.namespace.php",
         "markup.changed.git_gutter",
         "support.type.sys-types"
       ],
