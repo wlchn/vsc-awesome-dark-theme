@@ -457,6 +457,7 @@
     "statusBarItem.remoteBackground": "#80CBC4",
     "activityBar.background": "#1A1A1A",
     "activityBar.border": "#00000060",
+    "activityBar.activeBorder": "#80CBC4",
     "activityBar.foreground": "#EEFFFF",
     "activityBarBadge.background": "#80CBC4",
     "activityBarBadge.foreground": "#000000",
