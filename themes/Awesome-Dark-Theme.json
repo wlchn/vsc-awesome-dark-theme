@@ -756,7 +756,7 @@
     "gitDecoration.conflictingResourceForeground": "#FFCB6B90",
     "gitDecoration.modifiedResourceForeground": "#82AAFF90",
     "gitDecoration.untrackedResourceForeground": "#C3E88D90",
-    "gitDecoration.ignoredResourceForeground": "#8A8A8A90",
+    "gitDecoration.ignoredResourceForeground": "#8A8A8A99",
     "peekViewResult.selectionBackground": "#8A8A8A70",
     "breadcrumb.background": "#212121",
     "breadcrumb.foreground": "#8A8A8A",
