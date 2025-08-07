@@ -2,7 +2,7 @@
   "name": "vsc-community-material-theme",
   "displayName": "Community Material Theme",
   "description": "The official community maintained Material Theme with 'legacy' color schemes you love!",
-  "version": "1.4.4",
+  "version": "1.5.0",
   "publisher": "wlchn",
   "license": "Apache-2.0",
   "author": "Mattia Astorino [@equinusocio]",
@@ -20,8 +20,8 @@
     "url": "https://github.com/material-theme/vsc-community-material-theme/issues"
   },
   "engines": {
-    "node": "<=10",
-    "vscode": "^1.41.0"
+    "node": ">=16",
+    "vscode": "^1.100.0"
   },
   "categories": [
     "Themes",
