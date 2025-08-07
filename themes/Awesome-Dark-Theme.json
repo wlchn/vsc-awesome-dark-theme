@@ -393,7 +393,7 @@
   "colors": {
     "focusBorder": "#FFFFFF00",
     "editorCursor.foreground": "#FFCC00",
-    "editorRuler.foreground": "#424242",
+    "editorRuler.foreground": "#4A4A4A",
     "scrollbar.shadow": "#21212100",
     "editorLink.activeForeground": "#EEFFFF",
     "selection.background": "#80CBC4",
@@ -406,7 +406,7 @@
     "pickerGroup.foreground": "#80CBC4",
     "inputOption.activeBackground": "#EEFFFF30",
     "inputOption.activeBorder": "#EEFFFF30",
-    "editorLineNumber.foreground": "#424242",
+    "editorLineNumber.foreground": "#4A4A4A",
     "editorLineNumber.activeForeground": "#8A8A8A",
     "editorBracketMatch.border": "#FFCC0050",
     "editorBracketMatch.background": "#212121",
@@ -421,8 +421,8 @@
     "editorError.foreground": "#FF537070",
     "editorHoverWidget.background": "#212121",
     "editorHoverWidget.border": "#FFFFFF10",
-    "editorIndentGuide.background": "#42424270",
-    "editorIndentGuide.activeBackground": "#424242",
+    "editorIndentGuide.background": "#4A4A4A70",
+    "editorIndentGuide.activeBackground": "#4A4A4A",
     "editorGroupHeader.tabsBackground": "#212121",
     "editorGroup.border": "#00000030",
     "editorGutter.modifiedBackground": "#82AAFF60",
@@ -576,6 +576,6 @@
     "listFilterWidget.background": "#00000030",
     "listFilterWidget.outline": "#00000030",
     "listFilterWidget.noMatchesOutline": "#00000030",
-    "tree.indentGuidesStroke": "#424242"
+    "tree.indentGuidesStroke": "#4A4A4A"
   }
 }
