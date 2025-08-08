@@ -1,27 +1,26 @@
 {
-  "name": "vsc-community-material-theme",
-  "displayName": "Community Material Theme",
-  "description": "The official community maintained Material Theme with 'legacy' color schemes you love!",
+  "name": "vsc-awesome-dark-theme",
+  "displayName": "Awesome Dark Theme - Inspired by Material",
+  "description": "Awesome Dark Theme - Inspired by Material, Forked from Equinusocio's Legacy Community Material Theme.",
   "version": "1.5.0",
   "publisher": "wlchn",
   "license": "Apache-2.0",
-  "author": "Mattia Astorino [@equinusocio]",
+  "author": "wlchn, equinusocio",
   "icon": "logo.png",
   "galleryBanner": {
     "color": "#11131C",
     "theme": "dark"
   },
-  "homepage": "https://material-theme.site",
   "repository": {
     "type": "git",
-    "url": "https://github.com/material-theme/vsc-community-material-theme.git"
+    "url": "https://github.com/wlchn/vsc-awesome-dark-theme"
   },
   "bugs": {
-    "url": "https://github.com/material-theme/vsc-community-material-theme/issues"
+    "url": "https://github.com/wlchn/vsc-awesome-dark-theme/issues"
   },
   "engines": {
     "node": ">=16",
-    "vscode": "^1.100.0"
+    "vscode": "^1.51.0"
   },
   "categories": [
     "Themes",
@@ -43,7 +42,7 @@
         "uiTheme": "vs-dark"
       },
       {
-        "label": "Community Material Theme Darker High Contrast",
+        "label": "Awesome Dark Theme - Legacy",
         "path": "./themes/Community-Material-Theme-Darker-High-Contrast.json",
         "uiTheme": "vs-dark"
       }
