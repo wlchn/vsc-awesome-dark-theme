@@ -1,5 +1,7 @@
 Awesome Dark Theme - Inspired by Material
 
+**_Forked from Equinusocio.vsc-community-material-theme(Apache-2.0)_**
+
 ---
 
 ## Local Usage
@@ -34,5 +36,3 @@ Type `color theme`, choose `Preferences: Color Theme`, and select.
 ## LICENSE
 
 [Apache-2.0](LICENSE)
-
-**_Forked from Equinusocio.vsc-community-material-theme(Apache-2.0)_**
