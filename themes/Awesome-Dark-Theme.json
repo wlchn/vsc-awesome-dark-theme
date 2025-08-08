@@ -235,7 +235,7 @@
   ],
   "colors": {
     "focusBorder": "#FFFFFF00",
-    "editorCursor.foreground": "#FFCC00",
+    "editorCursor.foreground": "#EEFFFF",
     "editorRuler.foreground": "#4A4A4A",
     "scrollbar.shadow": "#21212100",
     "editorLink.activeForeground": "#EEFFFF",
@@ -349,8 +349,7 @@
     "terminal.ansiBrightMagenta": "#C792EA",
     "terminal.ansiBrightRed": "#FF5370",
     "terminal.ansiBrightYellow": "#FFCB6B",
-    "terminalCursor.foreground": "#FFCB6B",
-    "terminalCursor.background": "#000000",
+    "terminalCursor.foreground": "#EEFFFF",
     "scrollbarSlider.background": "#EEFFFF20",
     "scrollbarSlider.hoverBackground": "#EEFFFF10",
     "scrollbarSlider.activeBackground": "#88CCCC",
