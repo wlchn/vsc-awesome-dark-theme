@@ -1,5 +1,7 @@
 Awesome Dark Theme - Inspired by Material
 
+---
+
 ## Local Usage
 
 Clone repo
@@ -18,8 +20,6 @@ Developer: install extension from location
 To show hidden files in Finder: `cmd`+`shift`+`.`
 
 Select `vsc-awesome-dark-theme`
-
----
 
 ## Activate theme
 
