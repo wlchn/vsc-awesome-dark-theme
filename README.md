@@ -1,6 +1,8 @@
+Awesome Dark Theme - Inspired by Material
+
 **_Forked from Equinusocio.vsc-community-material-theme(Apache-2.0)_**
 
-# Local Usage
+## Local Usage
 
 Clone repo
 
