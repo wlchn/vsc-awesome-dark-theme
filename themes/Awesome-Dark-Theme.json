@@ -234,7 +234,7 @@
     }
   ],
   "colors": {
-    "focusBorder": "#FFFFFF00",
+    "focusBorder": "#88CCCC99",
     "editorCursor.foreground": "#EEFFFF",
     "editorRuler.foreground": "#4A4A4A",
     "scrollbar.shadow": "#21212100",
@@ -277,9 +277,9 @@
     "editor.selectionBackground": "#61616150",
     "editor.selectionHighlightBackground": "#FFCC0020",
     "editor.findMatchBackground": "#000000",
-    "editor.findMatchHighlightBackground": "#00000050",
+    "editor.findMatchHighlightBackground": "#000000",
     "editor.findMatchBorder": "#88CCCC",
-    "editor.findMatchHighlightBorder": "#FFFFFF50",
+    "editor.findMatchHighlightBorder": "#AAAAAA",
     "tab.activeBorder": "#88CCCC",
     "tab.activeModifiedBorder": "#AAAAAA",
     "tab.unfocusedActiveBorder": "#4A4A4A",
