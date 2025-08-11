@@ -1,27 +1,33 @@
 Awesome Dark Theme - Inspired by Material
 
+## Acknowledgements
+
 **_Forked from Equinusocio.vsc-community-material-theme(Apache-2.0)_**
+
+**_With deep appreciation for Equinusocio and former contributors' great work._**
+
+Major Changes from Fork: Enhanced contrast and Fine tuning.
 
 ---
 
 ## Local Usage
 
-Clone repo
+Clone repo:
 
 ```shell
 cd ~/.vscode/extensions/
 git clone https://github.com/wlchn/vsc-awesome-dark-theme.git
 ```
 
-VSCode `cmd`+`shift`+`P`
+VSCode `⌘ + Shift + P`
 
 ```
 Developer: install extension from location
 ```
 
-To show hidden files in Finder: `cmd`+`shift`+`.`
+_To show hidden files in Finder: `⌘ + Shift + .`_
 
-Select `vsc-awesome-dark-theme`
+Open `~/.vscode/extensions/`, select `vsc-awesome-dark-theme`
 
 ## Activate theme
 
