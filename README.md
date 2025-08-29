@@ -1,10 +1,10 @@
 Awesome Dark Theme - Inspired by Material
 
-## Acknowledgements
+## Notice
 
 **_Forked from Equinusocio.vsc-community-material-theme(Apache-2.0)_**
 
-**_With deep appreciation for Equinusocio and former contributors' great work._**
+**_With appreciation for Equinusocio and former contributors' work._**
 
 Major Changes from Fork: Enhanced contrast and Fine tuning.
 
