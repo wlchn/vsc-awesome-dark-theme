@@ -59,7 +59,6 @@
     },
     {
       "scope": [
-        "support.type",
         "source.css support.type.property-name",
         "source.sass support.type.property-name",
         "source.scss support.type.property-name",
