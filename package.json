@@ -19,7 +19,7 @@
     "url": "https://github.com/wlchn/vsc-awesome-dark-theme/issues"
   },
   "engines": {
-    "node": ">=16",
+    "node": ">=14",
     "vscode": "^1.51.0"
   },
   "categories": [
@@ -42,7 +42,7 @@
         "uiTheme": "vs-dark"
       },
       {
-        "label": "Awesome Dark Theme - Legacy",
+        "label": "Awesome Dark Theme - Legacy Material",
         "path": "./themes/Community-Material-Theme-Darker-High-Contrast.json",
         "uiTheme": "vs-dark"
       }
