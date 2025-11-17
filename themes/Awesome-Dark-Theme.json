@@ -127,7 +127,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
         "markup.inserted",
         "markdown.heading",
-        "markup.heading | markup.heading entity.name",
+        "markup.heading",
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {
