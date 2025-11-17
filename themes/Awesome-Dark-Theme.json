@@ -179,13 +179,10 @@
     },
     {
       "scope": [
-        "*url*",
-        "*link*",
-        "*uri*",
-        "markup.underline"
+        "markup.bold"
       ],
       "settings": {
-        "fontStyle": "underline"
+        "fontStyle": "bold"
       }
     },
     {
@@ -209,18 +206,21 @@
     },
     {
       "scope": [
-        "markup.bold"
-      ],
-      "settings": {
-        "fontStyle": "bold"
-      }
-    },
-    {
-      "scope": [
         "markup.strike"
       ],
       "settings": {
         "fontStyle": "strike"
+      }
+    },
+    {
+      "scope": [
+        "*link*",
+        "*url*",
+        "*uri*",
+        "markup.underline"
+      ],
+      "settings": {
+        "fontStyle": "underline"
       }
     }
   ],
