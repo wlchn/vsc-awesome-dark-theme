@@ -46,7 +46,8 @@
         "meta.class-method.js entity.name.function.js",
         "variable.function.constructor",
         "source.sass keyword.control",
-        "string.other.link.title.markdown"
+        "string.other.link.title.markdown",
+        "markup.changed"
       ],
       "settings": {
         "foreground": "#82AAFF"
@@ -77,7 +78,6 @@
         "storage.type",
         "storage.modifier",
         "entity.other.attribute-name",
-        "markup.changed",
         "source.json support.type.property-name.json",
         "text.html.markdown markup.inline.raw.markdown",
         "string.other.link.description.title.markdown",
@@ -92,7 +92,6 @@
         "entity.name",
         "support.type",
         "support.class",
-        "markup.changed.git_gutter",
         "support.type.sys-types",
         "entity.other.attribute-name.class",
         "constant.other.reference.link.markdown"
@@ -110,7 +109,9 @@
         "constant.escape",
         "keyword.other.unit",
         "keyword.other",
-        "markup.underline"
+        "markup.underline",
+        "markup.italic",
+        "markup.bold"
       ],
       "settings": {
         "foreground": "#F78C6C"
@@ -123,7 +124,6 @@
         "constant.other.key",
         "entity.other.inherited-class",
         "markup.heading",
-        "markup.inserted.git_gutter",
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
         "markup.inserted",
         "markdown.heading",
@@ -138,13 +138,11 @@
       "scope": [
         "entity.name.tag",
         "meta.tag.sgml",
-        "markup.deleted.git_gutter",
+        "markup.deleted",
         "source.cpp meta.block variable.other",
         "variable.other.constant",
         "support.other.variable",
-        "string.other.link",
-        "markup.italic",
-        "markup.bold"
+        "string.other.link"
       ],
       "settings": {
         "foreground": "#F07178"
@@ -159,7 +157,6 @@
         "entity.name.module.js",
         "variable.import.parameter.js",
         "variable.other.class.js",
-        "markup.deleted",
         "variable.language",
         "source.js constant.other.object.key.js string.unquoted.label.js"
       ],
@@ -241,7 +238,7 @@
     "chat.requestBubbleBackground": "#2A2A2A",
     "debugToolBar.background": "#212121",
     "diffEditor.insertedTextBackground": "#C3E88D15",
-    "diffEditor.removedTextBackground": "#FF537020",
+    "diffEditor.removedTextBackground": "#F0717820",
     "dropdown.background": "#212121",
     "dropdown.border": "#FFFFFF10",
     "editor.background": "#212121",
@@ -260,7 +257,7 @@
     "editorGroup.border": "#00000030",
     "editorGroupHeader.tabsBackground": "#212121",
     "editorGutter.addedBackground": "#C3E88D99",
-    "editorGutter.deletedBackground": "#FF537099",
+    "editorGutter.deletedBackground": "#F0717899",
     "editorGutter.modifiedBackground": "#82AAFF99",
     "editorHoverWidget.background": "#212121",
     "editorHoverWidget.border": "#FFFFFF10",
@@ -293,7 +290,7 @@
     "extensionButton.prominentHoverBackground": "#C3E88D",
     "focusBorder": "#88CCCC99",
     "gitDecoration.conflictingResourceForeground": "#FFCB6B",
-    "gitDecoration.deletedResourceForeground": "#FF5370",
+    "gitDecoration.deletedResourceForeground": "#F07178",
     "gitDecoration.ignoredResourceForeground": "#CCCCCC99",
     "gitDecoration.modifiedResourceForeground": "#82AAFF",
     "gitDecoration.untrackedResourceForeground": "#C3E88D",
