@@ -12,9 +12,7 @@
       "scope": [
         "variable",
         "string constant.other.placeholder",
-        "text.html.markdown",
-        "punctuation.definition.list_item.markdown",
-        "markup.table"
+        "text.html.markdown"
       ],
       "settings": {
         "foreground": "#EEFFFF"
@@ -46,7 +44,6 @@
         "meta.class-method.js entity.name.function.js",
         "variable.function.constructor",
         "source.sass keyword.control",
-        "string.other.link.title.markdown",
         "markup.changed"
       ],
       "settings": {
@@ -62,7 +59,6 @@
         "source.stylus support.type.property-name",
         "source.postcss support.type.property-name",
         "meta.separator",
-        "markup.quote punctuation.definition.blockquote.markdown",
         "variable.language.fenced.markdown",
         "markup.fenced_code.block.markdown",
         "markup.inline.raw.string.markdown"
@@ -78,10 +74,7 @@
         "storage.type",
         "storage.modifier",
         "entity.other.attribute-name",
-        "source.json support.type.property-name.json",
-        "text.html.markdown markup.inline.raw.markdown",
-        "string.other.link.description.title.markdown",
-        "markup.raw.block"
+        "source.json support.type.property-name.json"
       ],
       "settings": {
         "foreground": "#C792EA"
@@ -93,8 +86,7 @@
         "support.type",
         "support.class",
         "support.type.sys-types",
-        "entity.other.attribute-name.class",
-        "constant.other.reference.link.markdown"
+        "entity.other.attribute-name.class"
       ],
       "settings": {
         "foreground": "#FFCB6B"
@@ -123,12 +115,8 @@
         "constant.other.symbol",
         "constant.other.key",
         "entity.other.inherited-class",
-        "markup.heading",
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
-        "markup.inserted",
-        "markdown.heading",
-        "markup.heading",
-        "markup.heading.markdown punctuation.definition.heading.markdown"
+        "markup.inserted"
       ],
       "settings": {
         "foreground": "#C3E88D"
