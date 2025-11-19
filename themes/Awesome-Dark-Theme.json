@@ -115,7 +115,6 @@
         "constant.other.symbol",
         "constant.other.key",
         "entity.other.inherited-class",
-        "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
         "markup.inserted"
       ],
       "settings": {
@@ -145,8 +144,7 @@
         "entity.name.module.js",
         "variable.import.parameter.js",
         "variable.other.class.js",
-        "variable.language",
-        "source.js constant.other.object.key.js string.unquoted.label.js"
+        "variable.language"
       ],
       "settings": {
         "foreground": "#FF5370"
@@ -182,8 +180,7 @@
         "entity.other.attribute-name",
         "markup.quote",
         "markup.italic",
-        "variable.language",
-        "source.js constant.other.object.key.js string.unquoted.label.js"
+        "variable.language"
       ],
       "settings": {
         "fontStyle": "italic"
