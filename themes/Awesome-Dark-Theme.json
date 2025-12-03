@@ -23,12 +23,11 @@
       "scope": [
         "keyword.control",
         "constant.other.color",
-        "punctuation.definition.tag",
         "punctuation",
+        "punctuation.definition.tag",
         "punctuation.section.embedded",
         "keyword.other.template",
         "keyword.other.substitution",
-        "string.regexp",
         "constant.character.escape"
       ],
       "settings": {
