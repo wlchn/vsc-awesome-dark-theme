@@ -43,7 +43,6 @@
         "keyword.other.special-method",
         "meta.class-method.js entity.name.function.js",
         "variable.function.constructor",
-        "source.sass keyword.control",
         "markup.changed"
       ],
       "settings": {
@@ -69,7 +68,7 @@
         "storage.type",
         "storage.modifier",
         "entity.other.attribute-name",
-        "source.json support.type.property-name.json"
+        "support.type.property-name.json"
       ],
       "settings": {
         "foreground": "#C792EA"
@@ -79,8 +78,8 @@
       "scope": [
         "entity.name",
         "support.type",
-        "support.class",
         "support.type.sys-types",
+        "support.class",
         "entity.other.attribute-name.class"
       ],
       "settings": {
@@ -121,7 +120,6 @@
         "entity.name.tag",
         "meta.tag.sgml",
         "markup.deleted",
-        "source.cpp meta.block variable.other",
         "variable.other.constant",
         "support.other.variable",
         "string.other.link"
