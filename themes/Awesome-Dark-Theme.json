@@ -11,6 +11,7 @@
     {
       "scope": [
         "variable",
+        "meta.template.expression",
         "string constant.other.placeholder",
         "text.html.markdown"
       ],
