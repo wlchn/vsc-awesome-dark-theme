@@ -288,7 +288,7 @@
     "list.highlightForeground": "#88CCCC",
     "list.hoverBackground": "#1A1A1A",
     "list.hoverForeground": "#FFFFFF",
-    "list.inactiveSelectionBackground": "#00000030",
+    "list.inactiveSelectionBackground": "#4A4A4A60",
     "list.inactiveSelectionForeground": "#88CCCC",
     "listFilterWidget.background": "#00000030",
     "listFilterWidget.noMatchesOutline": "#00000030",
