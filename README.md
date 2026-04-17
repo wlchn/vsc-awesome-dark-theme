@@ -1,4 +1,4 @@
-Awesome Dark Theme - Inspired by Material
+# Awesome Dark Theme - Inspired by Material
 
 ## Notice
 
